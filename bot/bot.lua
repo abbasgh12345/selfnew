@@ -240,8 +240,12 @@ function create_config( )
      "sms",
      "lef",
      "spam",
+     "bgo",
+     "calc",
+     "ctro",
+     "stic"
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {94746365,184111248,211952272},
     admin_users = {},
     disabled_channels = {}
   }
