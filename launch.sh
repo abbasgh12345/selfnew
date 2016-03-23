@@ -111,6 +111,12 @@ else
     exit 1
   fi
   
+  #Adding some color. By @iicc1 :D
+   echo -e "\033[1;38;5;209m\033[1;48;5;249m\e[1m"
+   echo -e "telegram.me/beatbot_team"
+   echo -e "telegram.me/beatbot_team"
+   echo -e "                                              \e[0m"
+   echo -e "\e[36m"
 
   ./tg/bin/telegram-cli -k ./tg/tg-server.pub -s ./bot/bot.lua -l 1 -E $@
 fi
