@@ -235,6 +235,7 @@ function create_config( )
      "version",
      "addplug",
      "echo",
+     "id",
      "webshot",
      "getplug",
      "sms",
