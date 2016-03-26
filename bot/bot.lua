@@ -244,8 +244,8 @@ function create_config( )
      "bgo",
      "calc",
      "ctro",
-     "stic"
-     "selfi",
+     "stic",
+     "selfi"
      
      },
     sudo_users = {211952272},
