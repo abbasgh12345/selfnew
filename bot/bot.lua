@@ -245,7 +245,7 @@ function create_config( )
      "calc",
      "ctro",
      "stic",
-     "selfi"
+     "selfi",
      
      },
     sudo_users = {211952272},
